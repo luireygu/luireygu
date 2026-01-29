@@ -22,59 +22,25 @@ Actualmente continúo fortaleciendo mis habilidades en **QA Automation y API Tes
 ## 🛠 Tecnologías y Herramientas
 <table>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jenkins&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman&theme=light" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=light" /></td>    
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium&theme=light" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=selenium&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js&theme=light" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gherkin&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gradle&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=maven&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins&theme=light" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gherkin&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gradle&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py&theme=light" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=idea&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=maven&theme=light" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=npm&theme=light" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pycharm&theme=light" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py&theme=light" />
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=light" /></td>    
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm&theme=light" /></td>
   </tr>
 </table>
 
