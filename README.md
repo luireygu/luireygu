@@ -1,6 +1,6 @@
-# 👋 Hola, soy Luis Reyes
+# 👋 Hola, soy Luis Carlos
 
-🎯 **Ingeniero de Sistemas | QA Functional & Automation Engineer**
+**Ingeniero de Sistemas | QA Functional & Automation Engineer**
 
 Soy Ingeniero de Sistemas con experiencia en **pruebas funcionales y automatización**, enfocado en asegurar la calidad del software mediante **testing de APIs y automatización de UI**.  
 Me interesa construir frameworks de testing claros, mantenibles y alineados a buenas prácticas profesionales.
@@ -20,9 +20,64 @@ Actualmente continúo fortaleciendo mis habilidades en **QA Automation y API Tes
 ---
 
 ## 🛠 Tecnologías y Herramientas
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jenkins&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=selenium&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gherkin&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gradle&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=maven&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pycharm&theme=light" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py&theme=light" />
+    </td>
+  </tr>
+</table>
 
-### Lenguajes
-- **Java**
 
 ### Automatización & Testing
 - **Selenium WebDriver**
@@ -44,23 +99,6 @@ Actualmente continúo fortaleciendo mis habilidades en **QA Automation y API Tes
 
 ---
 
-## 🚀 Proyectos Destacados
-
-📌 **API Test Automation**
-- 🔹 **Videogamedb-restassured-api-testing**  
-  Automatización de pruebas para API REST usando Java y RestAssured.
-  
-- 🔹 **apiColombia-RestAssured**  
-  Pruebas automatizadas sobre APIs públicas, validando respuestas y estructura JSON.
-
-📌 **UI Test Automation**
-- 🔹 **Demo NopCommerce Practice**  
-  Automatización de flujos funcionales de e-commerce usando Selenium, Java y Cucumber (BDD).
-
-Estos proyectos forman parte de mi **portafolio profesional** y están orientados a demostrar diseño, organización y buenas prácticas en QA Automation.
-
----
-
 ## 📈 Objetivo Profesional
 
 Seguir creciendo como **QA Automation Engineer**, fortaleciendo habilidades técnicas en automatización, APIs, y frameworks de testing, y aportar a equipos que valoren la calidad del software desde etapas tempranas del desarrollo.
@@ -70,8 +108,8 @@ Seguir creciendo como **QA Automation Engineer**, fortaleciendo habilidades téc
 ## 📫 Contacto
 
 - 💼 GitHub: https://github.com/luireygu
-- 🔗 LinkedIn: *(ya configurado en el perfil)*
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/luis-carlos-reyes-guerrero-53a5b31b5/
+  
 ---
 
 ⭐ Gracias por visitar mi perfil  
